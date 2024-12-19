@@ -13,7 +13,7 @@ public class HelloController {
 	public String HelloMessage() {
 		
 		
-		return "hello from controller";
+		return "hello from controller updated";
 	}
 
 }
